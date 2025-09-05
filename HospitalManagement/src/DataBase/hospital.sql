@@ -45,7 +45,7 @@ CREATE TABLE `admin` (
 
 INSERT INTO `admin` (`admin_id`, `email`, `username`, `password`, `conf_password`, `full_name`, `image`, `gender`, `date`) VALUES
 (1, 'admin@gmail.com', 'admin', '12345678', NULL, NULL, 'C:\\Users\\Elga\\Documents\\NetBeansProjects\\HospitalManagementSystem\\src\\Admin_Directory\\1.jpg', 'Masculino', '2025-02-19'),
-(2, 'alda22010@hotmail.com', 'Alda Muchanga', 'daninha2128', NULL, NULL, 'C:\\Users\\Elga\\Documents\\NetBeansProjects\\HospitalManagementSystem\\src\\Admin_Directory\\2.jpg', 'Feminimo', '2025-02-25');
+(2, 'test', 'Test', 'test12345', NULL, NULL, 'C:\\Users\\Elga\\Documents\\NetBeansProjects\\HospitalManagementSystem\\src\\Admin_Directory\\2.jpg', 'Feminimo', '2025-02-25');
 
 -- --------------------------------------------------------
 
