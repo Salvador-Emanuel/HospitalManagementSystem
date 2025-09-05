@@ -115,7 +115,7 @@ CREATE TABLE `doctor` (
 --
 
 INSERT INTO `doctor` (`id`, `doctor_id`, `password`, `full_name`, `email`, `gender`, `mobile_number`, `specialized`, `address`, `image`, `date`, `modify_date`, `delete_date`, `status`) VALUES
-(1, 20250001, '123456789', 'Salvador Cossa', 'salvadorcossa@gmail.com', 'Masculino', 843781419, 'Cardiologista, gender =Masculino, gender =Masculino, gender =Masculino', 'Marracuene, Guava', 'C:\\Users\\Elga\\Documents\\NetBeansProjects\\HospitalManagementSystem\\src\\Doctor_Directory\\20250001.jpg', '2025-02-21', '2025-07-31', NULL, 'Activo'),
+(1, 20250001, '123456789', 'Salvador Tester', 'salvadortester@gmail.com', 'Masculino', 841234567, 'Cardiologista, gender =Masculino, gender =Masculino, gender =Masculino', 'Marracuene, Guava', 'C:\\Users\\Elga\\Documents\\NetBeansProjects\\HospitalManagementSystem\\src\\Doctor_Directory\\20250001.jpg', '2025-02-21', '2025-07-31', NULL, 'Activo'),
 (2, 20250002, '123456789', 'admin admin', 'admin@gmail.com', NULL, NULL, 'Obstetra', NULL, NULL, '2025-02-21', NULL, '2025-08-20', 'Activo'),
 (3, 0, '123456789', 'admin admin', 'admin@gmail.com', NULL, NULL, 'Pediatra', NULL, NULL, '2025-02-21', NULL, '2025-08-20', 'Activo');
 
