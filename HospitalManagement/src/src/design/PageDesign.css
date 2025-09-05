@@ -1,0 +1,82 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15-Feb-2025, 13:07:08
+    Author     : Elga
+*/
+
+.white-bg{
+    -fx-background-color: #ffffff;
+}
+
+.radius {
+    -fx-background-radius: 6px;
+}
+
+.textfield-1 {
+    -fx-border-color: #000;
+    -fx-border-width: .3px;
+    -fx-font-family: Tahoma;
+}
+
+textfield-1:focused{
+    -fx-border-color: linear-gradient(to bottom right, #188ba7, #306090);
+    -border-width: 1px;
+
+}
+.textfield-2 {
+    -fx-border-color: #000;
+    -fx-border-width: .3px;
+    -fx-font-family: Tahoma;
+}
+
+.textfield-2:focused{
+    -fx-border-color: linear-gradient(to bottom right, #ea665d, #c71d28);
+    -border-width: 1px;
+}
+
+.textfield-3 {
+    -fx-border-color: #000;
+    -fx-border-width: .3px;
+    -fx-font-family: Tahoma;
+}
+
+.textfield-3:focused {
+    -fx-border-color: linear-gradient(to bottom right, #857afa, #0f0578);
+    -fx-border-width: 1px;
+}
+.btn-1{
+    -fx-background-color: linear-gradient(to bottom right, #188ba7, #306090);
+    -fx-cursor: hand;
+    -fx-text-fill: #fff;
+    -fx-font-size: 14px;
+    -fx-font-family: Arial;
+}
+.btn-1:hover{
+    -fx-background-color: linear-gradient(to bottom right, #11a7c9, #2765a4);
+}
+
+.btn-2{
+    -fx-background-color: linear-gradient(to bottom right, #ea665d, #c71d28);
+    -fx-cursor: hand;
+    -fx-text-fill: #fff;
+    -fx-font-size: 14px;
+    -fx-font-family: Arial;
+}
+.btn-2:hover{
+    -fx-background-color: linear-gradient(to bottom right, #ea665d, #c71d28);
+}
+
+.btn-3{
+    -fx-background-color: linear-gradient(to bottom right, #857afa, #0f0578);
+    -fx-cursor: hand;
+    -fx-text-fill: #fff;
+    -fx-font-size: 14px;
+    -fx-font-family: Arial;
+}
+.btn-3:hover{
+    -fx-background-color: linear-gradient(to bottom right, #4899e4, #1f19c1);
+}
